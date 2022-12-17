@@ -1,5 +1,5 @@
 # GoGit-2.0 🚀🚀
-  GoGit is a project under OpenCode'21 that aims to improve the Git and GitHub skills of the contributors by completing some tasks.
+  GoGit is a project under OpenCode'22 that aims to improve the Git and GitHub skills of the contributors by completing some tasks.
  The tasks will be specified in the issue section of this repo and you need to complete these task with all the terms and conditions to be fulfilled. (2 days)
 
 # Project Setup 🤝
