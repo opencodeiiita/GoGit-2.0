@@ -4,4 +4,4 @@ My enrollment number is IEC2021006.
 Private Repo Link: https://github.com/anshgeez31/Private_Repo_OpenCode
 
 Problem facing: While mkdir we are creating a new folder but when we try to git add . it then there is a message appears which says that working tree is clean that means that no changes were detected when you create a directory.
-Reason: it is a empty folder and some file has to be added in it . We cannot commit empty directories, containing no files, to a Git repository. Thats why it is said if we want to commit empty directory just include .gitkeep file in it.
+Reason: In Git, directories exist only implicitly, through their contents. Empty directories have no contents, therefore they don't exist. Or to put it another way: Git is a content tracker. .gitkeep is a dummy file that makes sure that git recognises the empty folder so we can include this in an empty folder for git to easily detect it.
