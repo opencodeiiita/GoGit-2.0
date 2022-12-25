@@ -1,0 +1,1 @@
+Answer - When we create new repo locally in git then then the main branch of that is named master and when we create new repository in github online then the main branch of that is named main. 
