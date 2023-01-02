@@ -1,2 +1,0 @@
-Hello!
-I am Ananya, my roll number is IIT2021061. I am currently pursuing Btech in Information Technology, IIITA. Currently I am part of Fine Arts Society of our college. My hobbies include coding, web development and designing.
