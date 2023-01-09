@@ -12,9 +12,9 @@ step3)this is the command actually "$ git push --force-with-lease origin EXAMPLE
 
 # Different Delete task
 
-first i have written information regarding how i will delete my first commit and for that
-i used my command for deleting recently commit that is my first commit
+first i have written information regarding how i will delete my second  commit and for that
+i used my command for deleting recently commit that is my second commit
 
 command is "git reset --hard HEAD^"
 
-and then simply i make new commit and in that commit i explain the same thing
+and in the first commit i have explain it and in that commit i explain the same thing
