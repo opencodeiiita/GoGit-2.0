@@ -8,3 +8,13 @@ step1)Type "git commit --amend" and press Enter...
 step2)Use the push --force-with-lease command to force push over the old commit.
 
 step3)this is the command actually "$ git push --force-with-lease origin EXAMPLE-BRANCH"
+
+
+# Different Delete task
+
+first i have written information regarding how i will delete my first commit and for that
+i used my command for deleting recently commit that is my first commit
+
+command is "git reset --hard HEAD^"
+
+and then simply i make new commit and in that commit i explain the same thing
