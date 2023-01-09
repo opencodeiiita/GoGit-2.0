@@ -17,4 +17,4 @@ i used my command for deleting recently commit that is my second commit
 
 command is "git reset --hard HEAD^"
 
-and in  first commit i have explain it and in that commit i explain the same thing
+and in the first commit i have explain it and in that commit i explain the same thing
