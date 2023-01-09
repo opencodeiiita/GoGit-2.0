@@ -8,3 +8,8 @@ then we will commit and push our changes
 
 step 2. merge it to branch-1 and make a PR for original repo  
 
+# Different delete task
+
+i will give description in first commit and delete my most recent commit that is my second commit using the command 
+
+git reset --hard HEAD^
