@@ -15,5 +15,10 @@ SSH makes it faster and secure to transfer files over untrusted network.
 we dont have to login using username and password while pushing commits on remote repos.
 
 
+
 Ques - 2 Resources that you follow to learn the above tech stacks (development)?
 Ans - I follow YT, Stackoverflow, docs and google.
+
+Qus -  1 : What kind of Dev i do?
+Ans - I do Appd and webd.
+
