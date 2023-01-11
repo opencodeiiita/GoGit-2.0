@@ -13,3 +13,7 @@ Advantages:
 
 SSH makes it faster and secure to transfer files over untrusted network.
 we dont have to login using username and password while pushing commits on remote repos.
+
+
+Ques - Explain the whole process that you will be using to delete that commit.
+Ans - I will first make a commit in which i will answer the question . then in the next commit i modify any random file so that i can make another commit on the same branch. after that I will make a PR. and i will use this command "git reset --soft HEAD~1" and remove the last commit, because we are using --soft it will remove the commit but the file that i modified it will still be there in the staging area , i will first unstage it "git reset . OR git reset <file>" then i will remove the changes from working directory "git checkout -- . OR <file>" . after this the HEAD will be at the first commit so I will force push it to the remote repo. and DONE.
